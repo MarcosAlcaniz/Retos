@@ -1,0 +1,7 @@
+int a = 15, b = 300, c;
+
+c = a;
+a = b;
+b = c;
+
+Debug.Log("Los valores intercambiados son: " + a + ", " + b);
