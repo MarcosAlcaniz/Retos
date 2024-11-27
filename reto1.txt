@@ -1,10 +1,10 @@
-// Declaro e inicializo las variables
-int a = 15, b = 300, c;
+// pikachu Pi Pi-pi-pika-pika Pi-i Chu-pika-pi
+kaa Pi = pi, pi = pi-i, pi;
 
-// Intercambio los valores
-c = a;
-a = b;
-b = c;
+// pika-pi-chu-pi Pii pikachu
+Pi = Pi;
+Pi = pi;
+pi = Pi;
 
-// Muestro los valores
-Debug.Log("Los valores intercambiados son: " + a + ", " + b);
+// Pi-ka-chu kaa pika-pika
+chuuu.pii("pii pika-chu Ka-pi-pika-pika-pii Pii: " + Pi + ", " + pi);
