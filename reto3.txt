@@ -1,0 +1,11 @@
+int numero = 13;
+
+
+if((float)numero/2 == numero/2)
+
+	Debug.Log("El número es par");
+	
+else
+
+	Debug.Log("El número es impar");
+

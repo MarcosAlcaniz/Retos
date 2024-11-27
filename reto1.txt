@@ -1,7 +1,10 @@
+// Declaro e inicializo las variables
 int a = 15, b = 300, c;
 
+// Intercambio los valores
 c = a;
 a = b;
 b = c;
 
+// Muestro los valores
 Debug.Log("Los valores intercambiados son: " + a + ", " + b);
