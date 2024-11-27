@@ -1,11 +1,12 @@
 int numero = 13;
 
+while(numero > 0)
+{
+    numero = numero -2;
+}
 
-if((float)numero/2 == numero/2)
-
-	Debug.Log("El número es par");
-	
+if(numero == 0)
+	Debug.Log("El número es par");	
 else
-
 	Debug.Log("El número es impar");
 
