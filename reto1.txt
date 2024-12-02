@@ -1,6 +1,8 @@
 // pikachu Pi Pi-pi-pika-pika Pi-i Chu-pika-pi
 kaa Pi = pi, pi = pi-i, pi;
 
+int pepe = 50;
+
 // pika-pi-chu-pi Pii pikachu
 Pi = Pi;
 Pi = pi;
